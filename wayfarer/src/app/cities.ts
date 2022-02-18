@@ -2,7 +2,7 @@ export const CITIES = [
     {
        id: 1,
        name: "San Francisco",
-       country: "United Stated of America",
+       country: "United States of America",
        code: "USA",
        img: "../assets/img/san-francisco/san-francisco1-pexels-pixabay-208745.jpg",
        posts: [{
@@ -65,7 +65,7 @@ export const CITIES = [
        {
         id: 5,
         name: "Seattle",
-        country: "United Stated of America",
+        country: "United States of America",
         code: "USA",
         img: "../assets/img/seattle/thom-milkovic-skUTVJi8-jc-unsplash.jpg",
         posts: [{
