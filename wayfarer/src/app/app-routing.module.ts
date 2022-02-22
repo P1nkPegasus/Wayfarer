@@ -8,7 +8,8 @@ const routes: Routes = [{
   path: "",
   component: CarouselComponent
 },
-  {path: 'cities/:id', 
+  {
+    path: 'cities/:id', 
   component: CitiesComponent,
   children : [
     {

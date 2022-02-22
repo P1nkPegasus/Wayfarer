@@ -14,6 +14,7 @@ import { SearchComponent } from './search/search.component';
 import { FormsModule } from '@angular/forms';
 import { SliderComponent } from './slider/slider.component';
 import { CarouselComponent } from './carousel/carousel.component';
+
 // import { MdbCarouselModule } from 'mdb-angular-ui-kit/carousel';
  // For future use for front page carousel
 
